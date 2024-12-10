@@ -119,7 +119,7 @@ function AddContactModal({isOpen,onClose,add_contact}) {
                   <Flex direction={'column'} gap={4}>
                   <FormControl >
                       <FormLabel>Email<span style={{ color:'#FF6B6B',marginLeft:'4px'}}>*</span></FormLabel>
-                      <Input  placeholder='nallakukkalarupesh@gmail.com' type='email' name='email' onChange={handleInputChange} value={formData.email}></Input>
+                      <Input  placeholder='nallakukkalarupesh2002@gmail.com' type='email' name='email' onChange={handleInputChange} value={formData.email}></Input>
                   </FormControl>
 
                   <FormControl >
